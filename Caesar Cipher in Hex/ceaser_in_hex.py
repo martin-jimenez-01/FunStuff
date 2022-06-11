@@ -60,7 +60,6 @@ def solver(original_msg, key = NAN):#input no spaces
         # increment i by 2 
         i += 2 
         
-    
     return deciphered 
     
 
